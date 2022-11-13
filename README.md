@@ -9,7 +9,7 @@
 <br>
 <li>📧 <b>How to reach me:<b> <a href="mailto:karaca.tufan99@gmail.com">karaca.tufan99@gmail.com</a></li>
 <br>
-<li>🕺 Fun fact: I love 🏀</li>
+<li>🕺 Fun fact: I love basketball 🏀🏀</li>
 </ul>
 
 ## Connect with me:
