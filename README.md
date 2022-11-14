@@ -12,11 +12,11 @@
 <li>🕺 Fun fact: I love basketball 🏀🏀</li>
 </ul>
 
-## Connect with me:
+## Connect with me
 <a href="https://www.linkedin.com/in/tufankaraca/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" width="25px"></a>
 <a href="https://stackoverflow.com/users/19708362/tufankaraca" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="stackoverflow" width="25px"></a>
 
-## Technologies and Tools:
+## Technologies and Tools
 <a href="https://html.com/" target="_blank"><img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt="html" width="25px"></a>
 <a href="https://www.w3schools.com/css" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css" width="25px"></a>
 <a href="https://getbootstrap.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="25px"></a>
