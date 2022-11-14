@@ -18,7 +18,7 @@
 
 ## Technologies and Tools:
 <a href="https://html.com/" target="_blank"><img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt="html" width="25px"></a>
-<a href="https://www.w3schools.com/css target="_blank""><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css" width="25px"></a>
+<a href="https://www.w3schools.com/css" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css" width="25px"></a>
 <a href="https://getbootstrap.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="25px"></a>
 <a href="https://www.javascript.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="25px"></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react.js" width="25px"></a>
