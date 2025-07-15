@@ -20,5 +20,5 @@
 <a href="https://www.python.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png?20250701090410" alt="css" width="25px"></a>
 <a href="https://numpy.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" alt="bootstrap" width="25px"></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" alt="javascript" width="25px"></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react.js" width="25px"></a>
+<a href="https://matplotlib.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="react.js" width="25px"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vs code" width="25px"></a>
