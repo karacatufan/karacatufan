@@ -17,7 +17,7 @@
 
 ## Technologies and Tools
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" alt="html" width="25px"></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://w7.pngwing.com/pngs/140/948/png-transparent-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-text-thumbnail.png" alt="css" width="25px"></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo.png" alt="css" width="25px"></a>
 <a href="https://getbootstrap.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="25px"></a>
 <a href="https://www.javascript.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="25px"></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react.js" width="25px"></a>
