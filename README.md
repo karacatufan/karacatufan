@@ -3,9 +3,9 @@
 <br>
 
 <ul>
-<li>🏫 I'm a Electrical and Electronics Engineering student at Marmara University and trying to be a Full Stack Developer.</li>
+<li>🏫 I'm a Electrical and Electronics Engineering student at Marmara University and trying to be an AI Engineer.</li>
 <br>
-<li>💻 I'm currently learning Javascript, React.js etc.</li>
+<li>💻 I'm currently learning Scikit.learn, Langchain etc.</li>
 <br>
 <li>📧 <b>How to reach me:<b> <a href="mailto:karaca.tufan99@gmail.com">karaca.tufan99@gmail.com</a></li>
 <br>
