@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/tufankaraca/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" width="25px"></a>
 
 ## Technologies and Tools
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://wiki.postgresql.org/images/thumb/a/a4/PostgreSQL_logo.3colors.svg/810px-PostgreSQL_logo.3colors.svg.png" alt="html" width="25px"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="html" width="25px"></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png?20250701090410" alt="css" width="25px"></a>
 <a href="https://numpy.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" alt="bootstrap" width="25px"></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" alt="javascript" width="25px"></a>
