@@ -25,4 +25,4 @@
 <a href="https://app.powerbi.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="25px"></a>
 <a href="https://excel.cloud.microsoft/tr-tr/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="javascript" width="25px"></a>
 <a href="https://scikit-learn.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="react.js" width="25px"></a>
-<a href="https://www.langchain.com/" target="_blank"><img src="https://images.seeklogo.com/logo-png/61/1/langchain-icon-white-logo-png_seeklogo-611656.png" alt="vs code" width="25px"></a>
+<a href="https://www.langchain.com/" target="_blank"><img src="https://images.seeklogo.com/logo-png/52/1/langchain-logo-png_seeklogo-528369.png" alt="vs code" width="25px"></a>
