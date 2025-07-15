@@ -21,4 +21,4 @@
 <a href="https://numpy.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" alt="bootstrap" width="25px"></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" alt="javascript" width="25px"></a>
 <a href="https://matplotlib.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="react.js" width="25px"></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vs code" width="25px"></a>
+<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="vs code" width="25px"></a>
