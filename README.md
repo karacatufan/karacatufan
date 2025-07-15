@@ -22,3 +22,7 @@
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" alt="javascript" width="25px"></a>
 <a href="https://matplotlib.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="react.js" width="25px"></a>
 <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="vs code" width="25px"></a>
+<a href="https://app.powerbi.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="25px"></a>
+<a href="https://excel.cloud.microsoft/tr-tr/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="javascript" width="25px"></a>
+<a href="https://scikit-learn.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="react.js" width="25px"></a>
+<a href="https://www.langchain.com/" target="_blank"><img src="https://logo.svgcdn.com/s/langchain-dark-8x.png" alt="vs code" width="25px"></a>
