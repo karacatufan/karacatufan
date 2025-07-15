@@ -24,5 +24,5 @@
 <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="seaborn" width="25px"></a>
 <a href="https://app.powerbi.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="25px"></a>
 <a href="https://excel.cloud.microsoft/tr-tr/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel dashboard" width="25px"></a>
-<a href="https://scikit-learn.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="30px"></a>
+<a href="https://scikit-learn.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40px"></a>
 <a href="https://www.langchain.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="langchaing" width="25px"></a>
