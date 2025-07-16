@@ -3,7 +3,7 @@
 <br>
 
 <ul>
-<li>🏫 I'm a Electrical and Electronics Engineering student at Marmara University and trying to be an AI Engineer.</li>
+<li>🏫 I'm an Electrical and Electronics Engineering student at Marmara University and trying to be an AI Engineer.</li>
 <br>
 <li>💻 I'm currently learning Scikit.learn, Langchain etc.</li>
 <br>
